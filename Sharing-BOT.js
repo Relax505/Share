@@ -8,7 +8,7 @@ client.on("guildMemberAdd", member => {
   let words = [‏ستمرّ عليك لحظاتٌ تستطيعُ فيها فعل كلّ شيء.. هذه ليست قوة، إنما مقدرة، القوةُ تأتي من اللحظاتِ التي ظننتَ أنك لن تتمكن من فعل شيءٍ فيها، وأنها ستهزمكَ لا محالة، ثمّ انتصرتَ عليها!
 
 مرحباً أو مُرحباً Tactful.
-                               [https://discord.gg/amtnCCq]
+                               [https://discord.gg/pMGyNqk]
 ... [ ${member}  
   setTimeout(() =>{
   member.createDM().then(function (channel) {
